@@ -1,8 +1,8 @@
 import { configureStore } from '@reduxjs/toolkit'
 import authSlice from './slices/authSlice'
 import chatSlice from './slices/chatSlice'
-import { authApi } from './api/authApi'
-import { postsApi } from './api/postsApi'
+import { authApi } from '../store/api/authApi'
+import { postsApi } from '../store/api/PostsApi'
 
 export const store = configureStore({
   reducer: {
