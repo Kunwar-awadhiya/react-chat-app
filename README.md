@@ -4,8 +4,8 @@ A modern Single Page Application built with React.js featuring authentication, r
 
 ## 🚀 Live Demo
 
-- **Live App**: [Deploy on Vercel/Netlify]
-- **GitHub Repository**: [Your GitHub URL]
+- **Live App**: https://react-chat-app-0edj.onrender.com/login
+- **GitHub Repository**: https://github.com/Kunwar-awadhiya/react-chat-app
 
 ## ✨ Features
 
