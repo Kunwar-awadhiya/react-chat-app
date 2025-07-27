@@ -4,7 +4,7 @@ A modern Single Page Application built with React.js featuring authentication, r
 
 ## 🚀 Live Demo
 
-- **Live App**: https://react-chat-app-0edj.onrender.com/login
+- **Live App**: https://react-chat-app-0edj.onrender.com
 - **GitHub Repository**: https://github.com/Kunwar-awadhiya/react-chat-app
 
 ## ✨ Features
